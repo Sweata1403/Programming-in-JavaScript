@@ -1,0 +1,11 @@
+DOM Learn what matters
+--> What is DOM? ✔
+DOM: Document Object Model
+--> 4 Pillars of DOM ✔
+--› Simple example of bulb or whatever
+clicking on the same button
+--› Multiple events
+--› selecting multiple elements at a same time
+--> setTimeout
+--›> setInterval
+--> future projects
